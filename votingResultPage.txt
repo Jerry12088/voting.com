@@ -1,0 +1,2 @@
+# Voting Results Page
+Displays the current vote counts dynamically from votes.json

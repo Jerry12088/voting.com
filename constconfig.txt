@@ -1,0 +1,4 @@
+const config = {
+  apiEndpoint: "votes.json",
+  options: ["Option A", "Option B", "Option C"]
+};
