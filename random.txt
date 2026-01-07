@@ -1,0 +1,9 @@
+# Random Voting Website
+A simple website where users can vote randomly for options.
+
+## Files
+- `index.html` → Main page
+- `style.css` → Styling
+- `script.js` → Voting logic
+- `votes.json` → Stores votes
+- `README.md` → Project info
