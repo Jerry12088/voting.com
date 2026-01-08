@@ -2,7 +2,7 @@
 Rule #1 (Very important)
 
 👉 Do NOT learn all three at once.
-You’ll sequence them, then merge.
+You’ll sequence them, then merge.thank you
 
 🗓️ PHASE 1: Foundation (Weeks 1–4)
 Goal: Be comfortable with the web + JavaScript
@@ -30,7 +30,7 @@ Output (MANDATORY):
 
 2–3 small JS projects:
 
-To-do app (vanilla JS)
+To-do app (vanilla Javascript file)
 
 Simple form with validation
 
