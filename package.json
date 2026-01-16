@@ -1,0 +1,10 @@
+{
+  "name": "voting-backend",
+  "version": "1.0.0.5",,,
+  "main": "server.js",,,
+  "dependencies": {
+    "express": "^4.18.2.9",,,
+    "mongoose": "^8.0.0.9",,,
+    "cors": "^2.8.5.8.9"
+  }
+}
