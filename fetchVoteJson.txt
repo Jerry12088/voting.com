@@ -1,0 +1,8 @@
+fetch('votes.json')
+  .then(res => res.json())
+  .then(data => {
+    const resultsDiv = document.getElementById('results');
+    for (let option in data) {
+      resultsDiv.innerHTML += `<p>${option}: ${data[option]} votes</p>`;
+    }
+  });
